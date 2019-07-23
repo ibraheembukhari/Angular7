@@ -1,0 +1,67 @@
+.navbar-custom {
+  color: royalblue;
+}
+/* Home css */
+.login-boxs{
+  width: 280px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+  margin-top: 240px;
+}
+.textboxs{
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid royalblue;
+}
+.textboxs i{
+  width: 26px;
+  float: left;
+  text-align: center;
+}
+.textboxs input{
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+  width: 80%;
+  float: left;
+  margin: 0 10px;
+}
+.btns{
+  width: 100%;
+  background: none;
+  border: 2px solid royalblue;
+  color: white;
+  padding: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 12px 0;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  background-image: url('C:\Users\ibrah\Downloads\Compressed\transparent login form\transparent login form\bg.jpg');
+  background-size: cover;
+}
+.down{
+  margin-top: 200px;
+  font-size: 80px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding-right: 50%;
+}
+.heading{
+  margin-top: 40px;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color: cornflowerblue;
+}
+
